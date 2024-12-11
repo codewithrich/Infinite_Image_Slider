@@ -1,4 +1,8 @@
-#A simple Infinite Image Slider
+# A simple Infinite Image Slider
 
-[![Watch the video](https://github.com/codewithrich/Infinite_Image_Slider/blob/main/demo.mp4P)]
+
+
+https://github.com/user-attachments/assets/41447583-1468-4c7d-998a-b465d26ceb05
+
+
 
